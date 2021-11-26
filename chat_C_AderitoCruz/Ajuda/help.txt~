@@ -1,0 +1,29 @@
+------------------ Ajuda Para usar o Chat --------------------
+ 
+ 1. Tens um menu de login caso não possuas uma conta
+    deves registrar primeiro
+ 
+ 2.  Apos estar logado podes efecutuar 6 operacões
+ 2.1 Enviar Mensagem para todos os usuario
+     Exemplo : <> mensagem 
+   
+ 2.2 Enviar Mensagem para um  usuario especifico
+     Exemplo : > alvo mensagem
+ 
+ 2.3 Mudar nome de usuario
+     Exemplo : # novo_nome 
+       
+ 2.4 Deletar nome de usuario
+     Exemplo : X
+     
+ 2.5 ver manual de ajuda
+     Exemplo : help
+     
+ 2.6 Terminar a sua sessão
+     Exemplo : sair
+     
+ 2.7 Enviar anexo
+     Exemplo : @ alvo nomeFicheiro
+               Caminho do ficheiro 
+ 
+
